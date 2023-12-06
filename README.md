@@ -31,7 +31,7 @@ The B.A.T.M.A.N Network Simulator is a Python application that visualises a netw
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone 
+   git clone https://github.com/VasanthVanan/batman-network-visualiser.git
    ```
 
 2. Navigate to the project directory.
